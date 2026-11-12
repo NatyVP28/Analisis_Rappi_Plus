@@ -2,6 +2,8 @@
 
 Análisis de punta a punta del servicio de suscripción **RappiPlus**: desde la limpieza de datos crudos hasta un dashboard en Power BI, pasando por análisis de rentabilidad, funnel de conversión, retención por cohortes y un test A/B.
 
+> **Nota sobre los datos:** este es un caso de estudio académico con **datos simulados**. "RappiPlus" se usa solo como escenario de negocio: las cifras no provienen de Rappi ni representan su desempeño real.
+
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
@@ -47,6 +49,8 @@ Evaluar el desempeño de RappiPlus y responder cinco preguntas de negocio con da
 | `experiment_checkout_ui.csv` | Resultados del experimento A/B en el checkout (10.000 usuarios) |
 
 Periodo analizado: **enero – junio de 2025** · Países: **Colombia, México y Argentina**.
+
+Los montos se presentan en las unidades del dataset, que no especifica moneda.
 
 ---
 
@@ -180,6 +184,6 @@ Para el dashboard, abre `Visualización_Rappi Plus.pbix` con [Power BI Desktop](
 
 ## 👩‍💻 Autora
 
-**Natalia Viloria**
+**Natalia Viloria** · Data Analyst
 📧 natalia.viloria2@gmail.com
-<!-- 🔗 [LinkedIn](https://www.linkedin.com/in/tu-perfil) -->
+🔗 [LinkedIn](https://www.linkedin.com/in/natalia-j-viloria-p%C3%A9rez-845b695a)
